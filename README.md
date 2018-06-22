@@ -1,2 +1,2 @@
 # Cu
-![Alt Text](https://yandex.ru/images/search?p=1&text=%D1%81%D0%B8%20%D1%8F%D0%B7%D1%8B%D0%BA&img_url=https%3A%2F%2Faptitudeclasses.in%2Fassets%2Fuploads%2Fcourse_curriculum_files%2FThe_C_Programming_Language_logo_svg_201710130911141480816230.png&pos=55&rpt=simage)
+![Alt Text](https://github.com/Pollyraspad/Cu/blob/master/Cimage.jpg)
